@@ -1,0 +1,126 @@
+/bj_output
+/logs
+/mnist
+/cont_mix
+
+*.png
+*.batch
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+lib/
+lib64/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.coverage
+.coverage.*
+
+# Type hinting
+.mypy_cache/
+.dmypy.json
+.dmypy.json.
+
+# Pyre type checker
+.pyre/
+.pyre_configuration
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# VS Code settings
+settings.json
+
+# Pylint
+pylint.log
+
+# MyPy
+.mypy_cache/
+.mypy.ini
+
+# Pytest
+pytest.ini
+pytest.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Test directories
+tests/__pycache__/
+tests/*/__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variable files
+.env
+.env.local
+.env.production
+.env.development
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+# Distribution packages
+*.egg
+*.whl
+
+# Compiled extensions
+*.so
+
+# Docker files
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Other files
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# pyenv
+.python-version
